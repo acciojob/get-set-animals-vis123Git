@@ -1,6 +1,6 @@
 //complete this code
 class Animal {
-	constructor(species: string)
+	constructor(species)
 		public void makeSound(){
 		console.log(`The ${species} makes a sound`)
 	}
